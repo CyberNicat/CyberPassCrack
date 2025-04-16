@@ -1,3 +1,5 @@
+thanks me after > https://github.com/CyberNicat/CyberPassCrack.git
+
 import hashlib
 import argparse
 
