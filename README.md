@@ -22,7 +22,7 @@ Hash crack tool (ethical )
 
 options:
   -h, --help            show this help message and exit
-  -a, --algo ALGO       Hash algoritm (md5, sha256, və s.)
+  -a, --algo ALGO       Hash algoritm (md5, sha256, and others)
   -i, --input INPUT     Hash value
   -w, --wordlist WORDLIST
                         Wordlist file
